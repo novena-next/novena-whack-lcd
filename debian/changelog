@@ -1,3 +1,10 @@
+novena-whack-lcd (1.1-r1) unstable; urgency=medium
+
+  * Repackage for Buster
+  * Set myself as maintainer
+
+ -- Jookia <contact@jookia.org>  Wed, 22 Apr 2020 13:01:27 +1000
+
 novena-whack-lcd (1.0-r1) unstable; urgency=medium
 
   * Initial package version
